@@ -1,5 +1,4 @@
 import requests
-import pandas as pd
 import pytz
 import urllib3
 from urllib3.exceptions import InsecureRequestWarning

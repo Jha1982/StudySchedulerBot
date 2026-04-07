@@ -4,3 +4,4 @@ beautifulsoup4
 pytz
 urllib3
 python-dotenv
+pandas
